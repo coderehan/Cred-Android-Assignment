@@ -14,7 +14,8 @@ This app is built in <b>Kotlin</b> with <b>MVVM</b> architecture design pattern 
 <b>UI Screenshots:</b>
 
 
-<img src="https://user-images.githubusercontent.com/75351694/201171405-44f62035-8c46-4249-a753-406a5b259eee.jpg" width=30% height=30%>
-<img src="https://user-images.githubusercontent.com/75351694/201171657-f429a8fa-6bfc-4489-bcb6-8810acfbf321.jpg" width=30% height=30%>
-<img src="https://user-images.githubusercontent.com/75351694/201171782-be8f76bd-74dc-480a-aa97-c499555130b8.jpg" width=30% height=30%>
-<img src="https://user-images.githubusercontent.com/75351694/201171900-d7c09143-fc00-4597-bd80-f061c89eb212.jpg" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/75351694/202968038-466df78c-3bd5-42af-94c9-5870dfb2d007.jpg" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/75351694/202968092-287c739b-57b1-403b-8191-c4e2726035de.jpg" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/75351694/202968130-80e3e158-265d-48be-b244-e5e09ec35496.jpg" width=30% height=30%>
+<img src="https://user-images.githubusercontent.com/75351694/202968191-70a6dde2-cb56-4a7c-9430-8a2bcd18682b.jpg" width=30% height=30%>
+
